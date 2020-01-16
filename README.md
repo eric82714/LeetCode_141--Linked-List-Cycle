@@ -12,6 +12,7 @@ Output: true
 
 Explanation: There is a cycle in the linked list, where tail connects to the second node.
 
+![image](https://github.com/eric82714/LeetCode_141--Linked-List-Cycle/blob/master/image/example-1.PNG)
 
 # Example 2:
 
@@ -21,6 +22,7 @@ Output: true
 
 Explanation: There is a cycle in the linked list, where tail connects to the first node.
 
+![image](https://github.com/eric82714/LeetCode_141--Linked-List-Cycle/blob/master/image/example-2.PNG)
 
 # Example 3:
 
@@ -29,3 +31,5 @@ Input: head = [1], pos = -1
 Output: false
 
 Explanation: There is no cycle in the linked list.
+
+![image](https://github.com/eric82714/LeetCode_141--Linked-List-Cycle/blob/master/image/example-3.PNG)
